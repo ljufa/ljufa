@@ -20,33 +20,33 @@
 
 ### 🛠 &nbsp;Tech Stack
 |||
-| --- | --- |
+| ----: | ---- |
 | Programing languages: | <img alt="Java" src="assets/java.svg" width=35px>&nbsp;&nbsp;<img alt="Kotlin" src="assets/kotlin.svg" width=35px>&nbsp;&nbsp;<img alt="Rust" src="assets/rust.svg" width=35px>&nbsp;&nbsp;<img alt="Go" src="assets/go.svg" width=35px> |
-| Tools & Frameworks:| <img alt="Spring" src="assets/spring.svg" width=35px>&nbsp;&nbsp;<img alt="Spring Boot" src="assets/springboot.svg" width=35px>&nbsp;&nbsp;<img alt="Gradle" src="assets/gradle.svg" width=35px>&nbsp;&nbsp;<img alt="Swagger" src="assets/swagger.svg" width=35px>&nbsp;&nbsp;<img alt="Prometheus" src="assets/prometheus.svg" width=35px>&nbsp;&nbsp;<img alt="Grafana" src="assets/grafana.svg" width=35px>&nbsp;&nbsp;<img alt="Newrelic" src="assets/newrelic.svg" width=35px>|
+| Tools & Frameworks: | <img alt="Spring" src="assets/spring.svg" width=35px>&nbsp;&nbsp;<img alt="Spring Boot" src="assets/springboot.svg" width=35px>&nbsp;&nbsp;<img alt="Gradle" src="assets/gradle.svg" width=35px>&nbsp;&nbsp;<img alt="Swagger" src="assets/swagger.svg" width=35px>&nbsp;&nbsp;<img alt="Prometheus" src="assets/prometheus.svg" width=35px>&nbsp;&nbsp;<img alt="Grafana" src="assets/grafana.svg" width=35px>&nbsp;&nbsp;<img alt="Newrelic" src="assets/newrelic.svg" width=35px> |
 | Cloud Technologies: | <img alt="Kubernetes" src="assets/kubernetes.svg" width=35px>&nbsp;&nbsp;<img alt="Docker" src="assets/docker.svg" width=35px>&nbsp;&nbsp;<img alt="Helm" src="assets/helm.svg" width=35px>&nbsp;&nbsp;<img alt="Azure" src="assets/microsoftazure.svg" width=35px>&nbsp;&nbsp;<img alt="Google Cloud" src="assets/googlecloud.svg" width=35px> |
-| IDE, SCM & CI/CD: |&nbsp;&nbsp;<img alt="VSCode" src="assets/visualstudiocode.svg" width=35px>  &nbsp;&nbsp;<img alt="IntelliJ Idea" src="assets/intellijidea.svg" width=35px>&nbsp;&nbsp;<img alt="GitLab" src="assets/gitlab.svg" width=35px>&nbsp;&nbsp;<img alt="Github" src="assets/github.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/travisci.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/githubactions.svg" width=35px>|
-| Messaging & DB: | <img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>&nbsp;&nbsp;<img alt="PostgreSQL" src="assets/postgresql.svg" width=35px>&nbsp;&nbsp;<img alt="MongoDB" src="assets/mongodb.svg" width=35px>&nbsp;&nbsp;<img alt="Redis" src="assets/redis.svg" width=35px>|
+| IDE, SCM & CI/CD: | <img alt="VSCode" src="assets/visualstudiocode.svg" width=35px>  &nbsp;&nbsp;<img alt="IntelliJ Idea" src="assets/intellijidea.svg" width=35px>&nbsp;&nbsp;<img alt="GitLab" src="assets/gitlab.svg" width=35px>&nbsp;&nbsp;<img alt="Github" src="assets/github.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/travisci.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/githubactions.svg" width=35px> |
+| Messaging & DB: |<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>&nbsp;&nbsp;<img alt="PostgreSQL" src="assets/postgresql.svg" width=35px>&nbsp;&nbsp;<img alt="MongoDB" src="assets/mongodb.svg" width=35px>&nbsp;&nbsp;<img alt="Redis" src="assets/redis.svg" width=35px> |
 
 
 ## 🔥 My Github repositories: 
 ## top-tweets
-- [Backend ▪️ top-tweets-backend](top-tweets-backend)
-- [UI ▪️ top-tweets-web](top-tweets-web)
-- [Tweets Stream Colector ▪️ top-tweets-stream-collector](top-tweets-stream-collector)
+- [Backend ▪️ top-tweets-backend](https://github.com/ljufa/top-tweets-backend)
+- [UI ▪️ top-tweets-web](https://github.com/ljufa/top-tweets-web)
+- [Tweets Stream Colector ▪️ top-tweets-stream-collector](https://github.com/ljufa/top-tweets-stream-collector)
 
 
 ## Dplayer
-- [Backend ▪️ dplayer](dplayer)
-- [UI ▪️ dplayer-ui](dplayer-ui)
-- [Hardware & schematics ▪️ kicad](kicad)
+- [Backend ▪️ dplayer](https://github.com/ljufa/dplayer)
+- [UI ▪️ dplayer-ui](https://github.com/ljufa/dplayer-ui)
+- [Hardware & schematics ▪️ kicad](https://github.com/ljufa/kicad)
 
 ## Pvcexec
-- [Binary ▪️ pvcexec](pvcexec)
-- [ZSH Docker Image ▪️ pvcexec-docker-zsh](pvcexec-docker-zsh)
-- [MC Docker Image ▪️ pvcexec-docker-mc](pvcexec-docker-mc)
+- [Binary ▪️ pvcexec](https://github.com/kubextender/pvcexec)
+- [ZSH Docker Image ▪️ pvcexec-docker-zsh](https://github.com/kubextender/pvcexec-docker-zsh)
+- [MC Docker Image ▪️ pvcexec-docker-mc](https://github.com/kubextender/pvcexec-docker-mc)
 
 ## Arduino Sketches
-- [Arduino](arduino)
+- [Arduino](https://github.com/ljufa/arduino)
 
 
 | | |
