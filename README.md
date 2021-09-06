@@ -1,7 +1,4 @@
 # 👋 Hello there! I am Dragan.
-<a href="https://www.linkedin.com/in/dragan-ljubojevic-8304162
-"><img alt="LinkedIn" src="assets/linkedin.svg"/></a> &nbsp;
-<a href="mailto:dragan.ljubojevic@gmail.com"><img alt="Gmail" src="assets/gmail.svg" /></a>
  
 ### 👨🏼‍💻&nbsp;About Me
 
