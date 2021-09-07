@@ -1,11 +1,6 @@
 # 👋 Hello there! I am Dragan.
-<a href="https://www.linkedin.com/in/dragan-ljubojevic-8304162
-"><img alt="LinkedIn" src="assets/linkedin.svg"/></a> &nbsp;
-<a href="mailto:dragan.ljubojevic@gmail.com"><img alt="Gmail" src="assets/gmail.svg" /></a>
  
 ### 👨🏼‍💻&nbsp;About Me
-
-💡 &nbsp; I'm a freelance __Sr. Software Engineer/Developer__ with professional experience in the design and development of backend applications in Java and Kotlin. 
 
 🚀 &nbsp; I am interested in building reliable and scalable distributed systems, automation, event sourcing architectures, domain-driven design...
 
@@ -51,5 +46,7 @@ A simple Kubernetes tool that creates a temporary pod in your cluster with mount
 Random Arduino sketches, mainly for Attiny85
 - [My Sketches](https://github.com/ljufa/arduino)
 
+## 📊 Statistics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ljufa&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljufa)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ljufa&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljufa)
