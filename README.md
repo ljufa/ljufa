@@ -22,7 +22,7 @@ Messaging & DB:|<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>
 
 ## 🔥 My Github projects: 
 ## `top-tweets` (java, kotlin)
-This application consumes Twitter filtered stream API, publishes tweets to Kafka topic, backend service consume messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service. 
+This application consumes Twitter filtered stream API, publishes raw tweets to Kafka topic, on the other side backend service consumes messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service. 
 - [Tweets Stream Colector ▪️ top-tweets-stream-collector](https://github.com/ljufa/top-tweets-stream-collector)
 - [Backend ▪️ top-tweets-backend](https://github.com/ljufa/top-tweets-backend)
 - [UI ▪️ top-tweets-web](https://github.com/ljufa/top-tweets-web)
@@ -30,7 +30,7 @@ This application consumes Twitter filtered stream API, publishes tweets to Kafka
 
 
 ## `dplayer` (rust)
-Controller for DIY Raspberry PI 4 based audiophile streamer. It acts as a software controller for DAC chip AK4497 using the I2C protocol. It also implements a function to switch between different players: Music Player Daemon, Logitech Media Server, and Spotify. For each of the players, it implements base functions: Play, Stop, Next, and Prev. All the functions are exposed over IR remote interface and REST API consumed by the UI which is also written in rust wasm using [seed framework](https://seed-rs.org/). It can also print current player information on the LCD.
+Controller for DIY Raspberry PI 4 based audiophile streamer. It acts as a software controller for DAC chip AK4497 using the I2C protocol. It also implements a function to switch between different players: Music Player Daemon, Logitech Media Server, and Spotify. For each of the players, it implements base functions: Play, Stop, Next, and Prev. All the functions are exposed over IR remote interface and REST API consumed by the UI which is also written in rust wasm using [seed framework](https://seed-rs.org/).
 
 - [Backend ▪️ dplayer](https://github.com/ljufa/dplayer)
 - [UI ▪️ dplayer-ui](https://github.com/ljufa/dplayer-ui)
