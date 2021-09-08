@@ -8,7 +8,7 @@
 
 ✍️ &nbsp; In my free time, I enjoy making DIY audio electronics and programming microcontrollers.
 
-📄 &nbsp; You can check my [Resume](https://drive.google.com) for more details about work experience.
+📄 &nbsp; You can check my __[Resume](https://drive.google.com/file/d/0BytWXZb-QVNcV2dhTFk2NzNHZU0/view?usp=sharing&resourcekey=0-B-HQdgiT7tV-4cQESB4_Ng)__ for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 |||
