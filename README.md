@@ -21,12 +21,16 @@ Messaging & DB:|<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>
 
 
 ## 🔥 My Github projects: 
-## `top-tweets` (java, kotlin)
-This application consumes Twitter filtered stream API, publishes raw tweets to Kafka topic, on the other side backend service consumes messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service. 
-- [Tweets Stream Colector ▪️ top-tweets-stream-collector](https://github.com/ljufa/top-tweets-stream-collector)
-- [Backend ▪️ top-tweets-backend](https://github.com/ljufa/top-tweets-backend)
-- [UI ▪️ top-tweets-web](https://github.com/ljufa/top-tweets-web)
-- [Deployment ▪️ top-tweets-deployment](https://github.com/ljufa/top-tweets-deployment)
+## `Social Media Aggregator` (java, kotlin, rust-wasm)
+This application consumes different social media APIs (just Twitter atm), publishes raw tweets to Kafka topic, on the other side data worker service consumes messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service.
+
+<img src="assets/diagram_sma.svg" width=550px>
+
+- [Data stream colector ▪️ sma-tw-stream-collector](https://github.com/ljufa/sma-tw-stream-collector)
+- [Data worker ▪️ sma-tw-data](https://github.com/ljufa/sma-tw-data)
+- [Control API ▪️ sma-control](https://github.com/ljufa/sma-control)
+- [Web UI ▪️ sma-web-ui](https://github.com/ljufa/sma-web-ui)
+- [Deployment ▪️ sma-deployment](https://github.com/ljufa/sma-deployment)
 
 
 ## `dplayer` (rust)
