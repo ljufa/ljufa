@@ -33,10 +33,10 @@ This application consumes different social media APIs (just Twitter atm), publis
 - [Deployment ▪️ sma-deployment](https://github.com/ljufa/sma-deployment)
 
 
-## `dplayer` (rust)
+## `RSPlayer` (rust)
 Controller for DIY Raspberry PI 4 based audiophile streamer. It acts as a software controller for DAC chip AK4497 using the I2C protocol. It also implements a function to switch between different players: Music Player Daemon, Logitech Media Server, and Spotify. For each of the players, it implements base functions: Play, Stop, Next, and Prev. All the functions are exposed over IR remote interface and REST API consumed by the UI which is also written in rust wasm using [seed framework](https://seed-rs.org/).
 
-- [RSPlayer](https://github.com/ljufa/rsplayer)
+- [rsplayer](https://github.com/ljufa/rsplayer)
 
 ## `pvcexec` (go)
 A simple Kubernetes tool that creates a temporary pod in your cluster with mounted two persistent volume claims so you can easily access data on them using commons Linux tools.
