@@ -28,11 +28,13 @@ Controller for DIY Raspberry PI 4 based audiophile streamer. It acts as a softwa
 ## `Social Media Aggregator` (java, kotlin, rust-wasm)
 This application consumes different social media APIs (just Twitter atm), publishes raw tweets to Kafka topic, on the other side data worker service consumes messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service.
 
-- [Data stream colector ▪️ sma-tw-stream-collector](https://github.com/ljufa/sma-tw-stream-collector)
-- [Data worker ▪️ sma-tw-data](https://github.com/ljufa/sma-tw-data)
-- [Control API ▪️ sma-control](https://github.com/ljufa/sma-control)
-- [Web UI ▪️ sma-web-ui](https://github.com/ljufa/sma-web-ui)
-- [Deployment ▪️ sma-deployment](https://github.com/ljufa/sma-deployment)
+- [SMA](https://github.com/ljufa/sma)
+
+## `SEPAMA` (rust, rust-wasm)
+Sample CRUD web application with backend and frontend written in Rust
+
+- [SEPAMA](https://github.com/ljufa/sepama)
+
 
 ## `pvcexec` (go)
 A simple Kubernetes tool that creates a temporary pod in your cluster with mounted two persistent volume claims so you can easily access data on them using commons Linux tools.
