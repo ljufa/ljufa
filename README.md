@@ -2,11 +2,11 @@
  
 ### 👨🏼‍💻&nbsp;About Me
 
-🚀 &nbsp; I am interested in building reliable and scalable distributed systems, automation, embedded, linux...
+I'm a tech enthusiast who loves building cool stuff! My interests range from reliable and scalable distributed systems to automation, embedded systems, and all things Linux. 🐧
 
-✍️ &nbsp; In my free time, I enjoy making DIY audio electronics and programming microcontrollers.
+When I'm not coding, you can find me tinkering with DIY audio electronics or bringing microcontrollers to life. 🎧
 
-📄 &nbsp; You can check my __[Resume](https://drive.google.com/file/d/0BytWXZb-QVNcV2dhTFk2NzNHZU0/view?usp=sharing&resourcekey=0-B-HQdgiT7tV-4cQESB4_Ng)__ for more details about work experience.
+Want the more "official" story? Check out my __[Resume](https://drive.google.com/file/d/0BytWXZb-QVNcV2dhTFk2NzNHZU0/view?usp=sharing&resourcekey=0-B-HQdgiT7tV-4cQESB4_Ng)__.
 
 ### 🛠 &nbsp;Tech Stack
 |||
@@ -21,14 +21,11 @@ Messaging & DB:|<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>
 ## 🔥 My Github projects: 
 
 ## `RSPlayer` (rust)
-Controller for DIY Raspberry PI 4 based audiophile streamer. It acts as a software controller for DAC chip AK4497 using the I2C protocol. It also implements a function to switch between different players: Music Player Daemon, Logitech Media Server, and Spotify. For each of the players, it implements base functions: Play, Stop, Next, and Prev. All the functions are exposed over IR remote interface and REST API consumed by the UI which is also written in rust wasm using [seed framework](https://seed-rs.org/).
+RSPlayer is an open-source music player for headless devices like the Raspberry Pi. It operates as a system service and provides a responsive web UI for control. The core application is written in Rust for high-performance audio playback. The project also includes firmware for a Raspberry Pi Pico-based hardware controller that manages a display, IR remote, and DAC settings, as well as the KiCad files for the custom hardware boards.
 
 - [RSPlayer](https://github.com/ljufa/rsplayer)
-
-## `Social Media Aggregator` (java, kotlin, rust-wasm)
-This application consumes different social media APIs (just Twitter atm), publishes raw tweets to Kafka topic, on the other side data worker service consumes messages from the topic, sort them using top K algorithm and exposes sorted list by GRPC API to the UI service.
-
-- [SMA](https://github.com/ljufa/sma)
+- [RSPlayer Firmware](https://github.com/ljufa/rsplayer_firmware)
+- [RSPlayer Hardware](https://github.com/ljufa/rsplayer_hardware)
 
 ## `SEPAMA` (rust, rust-wasm)
 Sample CRUD web application with backend and frontend written in Rust
