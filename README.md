@@ -16,8 +16,3 @@ Tools & Frameworks:|<img alt="Spring" src="assets/spring.svg" width=35px>&nbsp;&
 Cloud Technologies:|<img alt="AWS" src="assets/aws.svg" width=35px>&nbsp;&nbsp;<img alt="Kubernetes" src="assets/kubernetes.svg" width=35px>&nbsp;&nbsp;<img alt="Docker" src="assets/docker.svg" width=35px>&nbsp;&nbsp;<img alt="Helm" src="assets/helm.svg" width=35px>&nbsp;&nbsp;<img alt="Azure" src="assets/microsoftazure.svg" width=35px>&nbsp;&nbsp;<img alt="Google Cloud" src="assets/googlecloud.svg" width=35px>
 IDE, SCM & CI/CD:|<img alt="VSCode" src="assets/visualstudiocode.svg" width=35px>  &nbsp;&nbsp;<img alt="IntelliJ Idea" src="assets/intellijidea.svg" width=35px>&nbsp;&nbsp;<img alt="GitLab" src="assets/gitlab.svg" width=35px>&nbsp;&nbsp;<img alt="Github" src="assets/github.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/travisci.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/githubactions.svg" width=35px>
 Messaging & DB:|<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>&nbsp;&nbsp;<img alt="PostgreSQL" src="assets/postgresql.svg" width=35px>&nbsp;&nbsp;<img alt="MongoDB" src="assets/mongodb.svg" width=35px>&nbsp;&nbsp;<img alt="Redis" src="assets/redis.svg" width=35px>
-
-## 📊 Statistics:
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ljufa&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljufa)
