@@ -17,28 +17,6 @@ Cloud Technologies:|<img alt="AWS" src="assets/aws.svg" width=35px>&nbsp;&nbsp;<
 IDE, SCM & CI/CD:|<img alt="VSCode" src="assets/visualstudiocode.svg" width=35px>  &nbsp;&nbsp;<img alt="IntelliJ Idea" src="assets/intellijidea.svg" width=35px>&nbsp;&nbsp;<img alt="GitLab" src="assets/gitlab.svg" width=35px>&nbsp;&nbsp;<img alt="Github" src="assets/github.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/travisci.svg" width=35px>&nbsp;&nbsp;<img alt="TravisCI" src="assets/githubactions.svg" width=35px>
 Messaging & DB:|<img alt="Apache Kafka" src="assets/apachekafka.svg" width=35px>&nbsp;&nbsp;<img alt="PostgreSQL" src="assets/postgresql.svg" width=35px>&nbsp;&nbsp;<img alt="MongoDB" src="assets/mongodb.svg" width=35px>&nbsp;&nbsp;<img alt="Redis" src="assets/redis.svg" width=35px>
 
-
-## 🔥 My Github projects: 
-
-## `RSPlayer` (rust)
-RSPlayer is an open-source music player for headless devices like the Raspberry Pi. It operates as a system service and provides a responsive web UI for control. The core application is written in Rust for high-performance audio playback. The project also includes firmware for a Raspberry Pi Pico-based hardware controller that manages a display, IR remote, and DAC settings, as well as the KiCad files for the custom hardware boards.
-
-- [RSPlayer](https://github.com/ljufa/rsplayer)
-- [RSPlayer Firmware](https://github.com/ljufa/rsplayer_firmware)
-- [RSPlayer Hardware](https://github.com/ljufa/rsplayer_hardware)
-
-## `SEPAMA` (rust, rust-wasm)
-Sample CRUD web application with backend and frontend written in Rust
-
-- [SEPAMA](https://github.com/ljufa/sepama)
-
-
-## `pvcexec` (go)
-A simple Kubernetes tool that creates a temporary pod in your cluster with mounted two persistent volume claims so you can easily access data on them using commons Linux tools.
-- [Binary ▪️ pvcexec](https://github.com/kubextender/pvcexec)
-- [ZSH Docker Image ▪️ pvcexec-docker-zsh](https://github.com/kubextender/pvcexec-docker-zsh)
-- [MC Docker Image ▪️ pvcexec-docker-mc](https://github.com/kubextender/pvcexec-docker-mc)
-
 ## 📊 Statistics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=ljufa&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;
