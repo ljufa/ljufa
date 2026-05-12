@@ -1,8 +1,7 @@
-# 👋 Hello there! I am Dragan.
- 
+
 ### 👨🏼‍💻&nbsp;About Me
 
-I'm a tech enthusiast who loves building cool stuff! My interests range from reliable and scalable distributed systems to automation, embedded systems, and all things Linux. 🐧
+I'm a tech enthusiast who loves building cool stuff! My interests range from distributed systems to automation, embedded systems, and all things Linux. 🐧
 
 When I'm not coding, you can find me tinkering with DIY audio electronics or bringing microcontrollers to life. 🎧
 
