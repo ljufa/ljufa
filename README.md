@@ -5,7 +5,6 @@ I'm a tech enthusiast who loves building cool stuff! My interests range from dis
 
 When I'm not coding, you can find me tinkering with DIY audio electronics or bringing microcontrollers to life. 🎧
 
-Want the more "official" story? Check out my __[Resume]()__.
 
 ### 🛠 &nbsp;Tech Stack
 |||
